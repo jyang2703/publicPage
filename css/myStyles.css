@@ -1,0 +1,23 @@
+body{
+	margin:0;
+	padding: 0;
+}
+
+#heading{
+	font-family: 'Oxygen', sans-serif;
+	font-size: 50pt;
+	background-color: dodgerblue;
+	margin: 0;
+	padding: 0;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	color: white;
+	text-align: center;
+
+}
+
+.bruin{
+	display: block;
+	margin: auto;
+	padding-top: 30px;
+}
